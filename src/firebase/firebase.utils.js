@@ -6,7 +6,7 @@ import "firebase/firebase-firestore";
 import "firebase/firebase-auth";
 
 var config = {
-  apiKey: "AIzaSyBKN3e67jiwHh6DXTHpKNqjKRYWDGT5v6A",
+  apiKey: "",
   authDomain: "crwn-db-7673a.firebaseapp.com",
   databaseURL: "https://crwn-db-7673a.firebaseio.com",
   projectId: "crwn-db-7673a",
